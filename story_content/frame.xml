@@ -1565,6 +1565,11 @@
             <slidelink slideid="_player.6TZ4s94ky19.6eCVIsXxYdM" displaytext="Untitled Slide" expand="false" type="slide" />
           </links>
         </slidelink>
+        <slidelink slideid="_player.5VjSaNnb1mV" displaytext="חישובים" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5VjSaNnb1mV.5gS90hmoN1T" displaytext="עלויות" expand="false" type="slide" />
+          </links>
+        </slidelink>
       </links>
     </outline>
   </nav_data>
