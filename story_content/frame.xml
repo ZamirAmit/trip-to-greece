@@ -1560,6 +1560,14 @@
             <slidelink slideid="_player.6JYLbcyTAxG.62FyZCg009i" displaytext="מקום לינה" expand="false" type="slide" />
           </links>
         </slidelink>
+        <slidelink slideid="_player.5gbZNR2RD5F" displaytext="יום שני - דלפי ויוון העתיקה" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5gbZNR2RD5F.5eigHp4kZJu" displaytext="כללי" expand="false" type="slide" />
+            <slidelink slideid="_player.5gbZNR2RD5F.6gPApefxbum" displaytext="זמנים" expand="false" type="slide" />
+            <slidelink slideid="_player.5gbZNR2RD5F.5ghmVHyTIyP" displaytext="נסיעות" expand="false" type="slide" />
+            <slidelink slideid="_player.5gbZNR2RD5F.6nKMovvgrxT" displaytext="מקום לינה" expand="false" type="slide" />
+          </links>
+        </slidelink>
         <slidelink slideid="_player.6TZ4s94ky19" displaytext="דף הבית" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6TZ4s94ky19.6eCVIsXxYdM" displaytext="Untitled Slide" expand="false" type="slide" />
@@ -1567,7 +1575,8 @@
         </slidelink>
         <slidelink slideid="_player.5VjSaNnb1mV" displaytext="חישובים" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5VjSaNnb1mV.5gS90hmoN1T" displaytext="עלויות" expand="false" type="slide" />
+            <slidelink slideid="_player.5VjSaNnb1mV.5gS90hmoN1T" displaytext="עלויות כלליות" expand="false" type="slide" />
+            <slidelink slideid="_player.5VjSaNnb1mV.6ODatESeU51" displaytext="עלויות כלליות" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
